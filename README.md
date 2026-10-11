@@ -51,7 +51,7 @@ Compare different market indices (CSI 300, SSE 50, etc.)
 
 ```bash
 # Install via OpenClaw
-openclaw skills install https://github.com/DayDreammy/tushare-openclaw-skill
+openclaw skills install https://github.com/dorightyang/tushare-openclaw-skill
 
 # Or manually copy to your skills directory
 cp -r tushare-api ~/.openclaw/skills/
@@ -131,7 +131,7 @@ Once installed, you can ask OpenClaw:
 
 ```bash
 # 通过 OpenClaw 安装
-openclaw skills install https://github.com/DayDreammy/tushare-openclaw-skill
+openclaw skills install https://github.com/dorightyang/tushare-openclaw-skill
 
 # 或手动复制到 skills 目录
 cp -r tushare-api ~/.openclaw/skills/
@@ -183,7 +183,7 @@ MIT License - See [LICENSE](LICENSE) for details.
 
 ## 👤 Author
 
-- **GitHub**: [@DayDreammy](https://github.com/DayDreammy)
+- **GitHub**: [@dorightyang](https://github.com/dorightyang)
 - **Skill Author**: yybot
 
 ## 🔗 Links
